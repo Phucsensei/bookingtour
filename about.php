@@ -43,7 +43,9 @@
     </section>
     <!-- header section ends -->
 
-
+<div class="heading" style="background:url(images/header-bg-1.jgp) no-repeat">
+    <h1>about us</h1>
+</div>
 
 
 
@@ -91,9 +93,7 @@
 
 <!-- footer section ends -->
 
-<div class="heading" style="background:url(images/header-bg-1.jgp) no-repeat">
-    <h1>about us</h1>
-</div>
+
 
 
 

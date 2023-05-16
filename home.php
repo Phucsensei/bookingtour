@@ -43,6 +43,45 @@
     </section>
     <!-- header section ends -->
 
+
+    <!-- home section starts -->
+    <section class="home">
+        <div class="home-slider">
+            <div class="w">
+
+                <div class="slider" style="background:url(images/home-slide-1.jpg) no-repeat">
+                    <div class="content">
+                        <span>exploer, discover, travel</span>
+                        <h3>travel arround the world</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+                <div class="slider" style="background:url(images/home-slide-2.jpg) no-repeat">
+                    <div class="content">
+                        <span>exploer, discover, travel</span>
+                        <h3>discover the new places</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+                <div class="slider" style="background:url(images/home-slide-3.jpg) no-repeat">
+                    <div class="content">
+                        <span>exploer, discover, travel</span>
+                        <h3>make your tour worthwhile</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+    </section>
+
+    <!-- home section ends -->
+
 <!-- services section starts -->
 <section class="services">
 
@@ -61,12 +100,12 @@
         </div>
 
         <div class="box">
-            <img src="images/icon-3.png" alt="">
+            <img src="images/icon-3.jpg" alt="">
             <h3>trekking</h3>
         </div>
 
         <div class="box">
-            <img src="images/icon-4.png" alt="">
+            <img src="images/icon-4.jpg" alt="">
             <h3>camp fire</h3>
         </div>
 
